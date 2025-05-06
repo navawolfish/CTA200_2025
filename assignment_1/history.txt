@@ -1,0 +1,129 @@
+    1  /cita/local/bin/passwd
+    2  cd /fs/lustre/scratch/wolfishn
+    3  cd /fs/lustre/scratch/nwolfish
+    4  mkedir CITA200_2025
+    5  mkdir CITA200_2025
+    6  cd CITA200_2025
+    7  ls
+    8  mkdir assignment_1
+    9  ls
+   10  cd assignment_1
+   11  pwd
+   12  touch README.md
+   13  ls
+   14  vi README.md
+   15  cd..
+   16  cd ..
+   17  ls
+   18  gwd
+   19  pwd
+   20  cd murray
+   21  pwd
+   22  cp Hello_world.c
+   23  cp --help
+   24  cd ..
+   25  pwd
+   26  cd nwolfish
+   27  cd CTA200_2025/assignment_1
+   28  cd CTA200_2025
+   29  ls
+   30  pushd CTA200_2025
+   31  mkdir CTA200_2025
+   32  cd CTA200_2025
+   33  mkdir assignment_1
+   34  cd ..
+   35  cd ,,
+   36  cd ..
+   37  pwd
+   38  cd nwolfish
+   39  ls
+   40  cd CTA200_2025/assignment_1
+   41  pwd
+   42  cd ..
+   43  pwd
+   44  cd ..
+   45  cd CITA200_2025/assignment_1
+   46  ls
+   47  cp README.md /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1/README.md
+   48  cd ..
+   49  ls
+   50  cd CTA200_2025
+   51  cd assignment_1
+   52  ls
+   53  cd ..
+   54  ls
+   55  rm -rf CITA200_2025
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd murray
+   60  cp Hello_word.c /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1/Hello_world_wolfish.c
+   61  ls
+   62  find Hello_world.c -print 2>/dev/null
+   63  find -name 'Hello_world.c' -print 2>/dev/null
+   64  pwd
+   65  find -name 'Hello_world.c'
+   66  find /  -name 'Hello_world.c'
+   67  find /  -name 'Hello_world.c' -print 2>/dev/null
+   68  cd Papers/tmp/
+   69  pwd
+   70  cd cita/h/home-1/murray/Papers/tmp
+   71  cd /cita/h/home-1/murray/Papers/tmp
+   72  ls
+   73  cp Hello_world.c /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1/Hello_world_wolfish.c
+   74  cd ..
+   75   cd ..
+   76  pwd
+   77  cd ..
+   78  pwd
+   79  /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1/
+   80  cd /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1/
+   81  ls
+   82  cd cita/h/home-1/murray/Papers/tmp
+   83  cd ..
+   84  pwd
+   85  cd ..
+   86  pwd
+   87  /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1
+   88  cd cita/h/home-1/murray
+   89  pwd
+   90  find / -name 'Hello_world.py' -print 2>/dev/null
+   91  pwd
+   92  cd tmp/
+   93  ls
+   94  cp Hello_world.py /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1/Hello_world_wolfish.py
+   95  cd ..
+   96  pwd
+   97  cd ..
+   98  pwd
+   99  cd /fs/lustre/scratch/nwolfish/CTA200_2025/assignment_1/
+  100  pwd
+  101  ls
+  102  gcc Hello_wold_wolfish.c -o Hello_world.exe
+  103  ls
+  104  gcc Hello_world_wolfish.c -o Hello_world.exe
+  105  ./Hello_world.exe
+  106  gcc Hello_world_wolfish.py -o Hello_world.exe
+  107  ls
+  108  gcc Hello_world_wolfish.c -o Hello_world.x
+  109  ./Hello_world.x
+  110  gcc Hello_world_wolfish.py -o Hello_worldpy.x
+  111  python Hello_world_wolfish.py -o Hello_worldpy.x
+  112  vi Hello_world_wolfish.py
+  113  python Hello_world_wolfish.py -o Hello_worldpy.x
+  114  vi Hello_world_wolfish.c
+  115  gcc Hello_world.c -o Hello_world.x
+  116  gcc Hello_world_wolfish.c -o Hello_world.x
+  117  ./Hello_world.x
+  118  gcc --help
+  119  gcc Hello_world_wolfish.c -o output_c.txt
+  120  vi output_c.txt
+  121  gcc Hello_world_wolfish.c -o Hello_world.x > output_c.txt
+  122  vi output_c.txt
+  123  ./ Hello_world.x > output_c.txt
+  124  ./Hello_world.x > output_c.txt
+  125  vi output_c.txt
+  126  python Hello_world_wolfish.py > output_python.txt
+  127  vi output_python.txt
+  128  history
+  129  history > history.txt
