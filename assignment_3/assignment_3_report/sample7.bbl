@@ -1,0 +1,14 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+\bibitem[{S. Avalos-Bock(2009)Avalos-Bock}]{avalos-bock}
+Avalos-Bock, S. 2009, \bibinfo{title}{Fractal {Geometry}: {The} {Mandelbrot} and {Julia} {Sets},}
+
+\bibitem[{E.~N. Lorenz(1963)Lorenz}]{lorenz_deterministic_1963}
+Lorenz, E.~N. 1963, \bibinfo{title}{Deterministic {Nonperiodic} {Flow},} \url{https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml}
+
+\end{thebibliography}
