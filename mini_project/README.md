@@ -9,5 +9,5 @@ This repository contains code and analysis for the CTA200 course project.
 
 ## Note on Data
 
-The notebook will only run on the `geir` since the data files are not uploaded in this repo.
+The notebook will only run on the `geir` server since the data files are not uploaded in this repo.
 
